@@ -1,0 +1,46 @@
+name = Jenkins Profiler Example
+description = Jenkins test Profiler.
+core = 7.x
+theme = sky
+
+; -----------------------------------------------------------------------------
+;                                  Modules
+; -----------------------------------------------------------------------------
+
+dependencies[] = filter
+dependencies[] = help
+dependencies[] = menu
+dependencies[] = node
+dependencies[] = path
+dependencies[] = system
+dependencies[] = user
+dependencies[] = color
+dependencies[] = field
+dependencies[] = image
+dependencies[] = number
+dependencies[] = block
+
+; Contrib
+dependencies[] = css3pie
+dependencies[] = ctools
+dependencies[] = libraries
+dependencies[] = token
+dependencies[] = views
+dependencies[] = pathauto
+
+; -----------------------------------------------------------------------------
+;                                   Users
+; -----------------------------------------------------------------------------
+
+users[admin][uid]    = 1
+users[admin][name]   = root
+users[admin][mail]   = ilari@mearra.com
+users[admin][roles]  = Admin,Publisher
+users[admin][status] = 1
+
+; -----------------------------------------------------------------------------
+;                                  Variables
+; -----------------------------------------------------------------------------
+
+variables[site_name] = Mearra
+variables[site_mail] = ilari@mearra.com
