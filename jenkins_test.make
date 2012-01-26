@@ -1,3 +1,7 @@
+api = 2
+
+core = 7.x
+
 ; Contrib
 
 projects[css3pie][subdir] 				= "contrib"
