@@ -1,7 +1,6 @@
 name = Jenkins Profiler Example
 description = Jenkins test Profiler.
 core = 7.x
-theme = sky
 
 ; -----------------------------------------------------------------------------
 ;                                  Modules
