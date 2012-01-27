@@ -31,10 +31,6 @@ projects[token][version] 					= "1.0-beta7"
 projects[views][subdir] 					= "contrib"
 projects[views][version] 					= "3.1"
 
-; Themes
-
-projects[sky][version] 						= "2.3"
-
 ; Libraries
 
 libraries[profiler][download][type] = "get"
