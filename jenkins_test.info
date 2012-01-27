@@ -1,5 +1,5 @@
-name = Jenkins Profiler Example
-description = Jenkins test Profiler.
+name = Mearra Profile
+description = Mearra test profile.
 core = 7.x
 
 ; -----------------------------------------------------------------------------
@@ -31,10 +31,10 @@ dependencies[] = pathauto
 ;                                   Users
 ; -----------------------------------------------------------------------------
 
-users[admin][uid]    = 1
-users[admin][name]   = admin
-users[admin][mail]   = ilari.makela@mearra.com
-users[admin][status] = 1
+users[superduper][uid]    = 1
+users[superduper][name]   = admin
+users[superduper][mail]   = ilari.makela@mearra.com
+users[superduper][status] = 1
 
 ; -----------------------------------------------------------------------------
 ;                                  Variables
