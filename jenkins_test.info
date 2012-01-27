@@ -18,6 +18,7 @@ dependencies[] = field
 dependencies[] = image
 dependencies[] = number
 dependencies[] = block
+dependencies[] = poll
 
 ; Contrib
 dependencies[] = css3pie
