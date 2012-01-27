@@ -32,9 +32,8 @@ dependencies[] = pathauto
 ; -----------------------------------------------------------------------------
 
 users[admin][uid]    = 1
-users[admin][name]   = root
-users[admin][mail]   = ilari@mearra.com
-users[admin][roles]  = Admin,Publisher
+users[admin][name]   = admin
+users[admin][mail]   = ilari.makela@mearra.com
 users[admin][status] = 1
 
 ; -----------------------------------------------------------------------------
@@ -42,4 +41,4 @@ users[admin][status] = 1
 ; -----------------------------------------------------------------------------
 
 variables[site_name] = Mearra
-variables[site_mail] = ilari@mearra.com
+variables[site_mail] = ilari.makela@mearra.com
